@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Chicken Licken Digital System Simulator",
+  "description": "An interactive digital builder and real-time operations simulator of Chicken Licken omnichannel products, loyalty engines, automation flows, and POS admin systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
